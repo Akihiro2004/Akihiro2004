@@ -70,8 +70,8 @@ I worked as the **Developer**, responsible for:
 <p align="center">
   <img src="./assets/sing.gif" width="400" alt="Mira Animation Preview"/>
 </p>
-Mira is designed as a **general-purpose AI companion**.  
-She can **sing**, **play games**, and **hold natural conversations**, bringing together entertainment and interactivity in one intelligent system.  
+Mira is designed as a general-purpose AI companion.  
+She can sing, play games, and hold natural conversations, bringing together entertainment and interactivity in one intelligent system.  
 
 ### 🎵 Singing Ability
 Mira is capable of singing with a custom-trained voice model using **RVC**.  
