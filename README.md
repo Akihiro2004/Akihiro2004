@@ -79,7 +79,7 @@ This allows her to perform songs in different tones and emotions, creating a mor
 
 ➡️ Listen to some of Mira’s songs here:  
 <p align="center">
-  <a href="https://github.com/Akihiro2004/Akihiro2004/blob/main/songs.html" target="_blank">
+  <a href="https://akihiro2004.github.io/Akihiro2004/songs.html" target="_blank">
     <img src="https://img.shields.io/badge/🎶%20Open%20Mira's%20Singing%20Showcase-blueviolet?style=for-the-badge" alt="Mira Songs Showcase"/>
   </a>
 </p>
