@@ -36,7 +36,7 @@ This project taught me how to bridge the gap between **raw LLM capabilities** an
 
 ---
 
-## My Role
+## What I did?
 I worked as the **Developer**, responsible for:
 - Creating AI flow for context understanding  
 - Implementing **Text-to-Speech (TTS)** models for AI responses  
