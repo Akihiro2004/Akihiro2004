@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Darrien Rafael Wijaya
 
 🎓 Computer Science Student | 🤖 AI Enthusiast | 💻 Developer  
 
@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I’m passionate about building AI systems that bl
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akihiro2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akihiro2004&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akihiro2004&theme=onedark" alt="Trophies" />
 </p>
 
 ---
