@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m passionate about building AI systems that bl
 
 # Featured Project: Mira AI
 
-![Mira Preview](./assets/mira-preview.png)
+![Mira Preview](./assets/miragif.gif)
 
 ### 📝 Project Description
 **Mira AI** is an experimental artificial intelligence designed to be *as human as possible*.  
@@ -66,13 +66,51 @@ I worked as the **Developer**, responsible for:
 
 ---
 
-## Mira in Action
-➡️ *(Place Mira’s animations/videos here)*  
-- 🎥 [Demo: Singing Ability](#)  
-- 🎥 [Demo: Playing Chess](#)  
-- 🎥 [Demo: Interactive Chat](#)  
+## 🎬 Mira in Action
+<p align="center">
+  <img src="./assets/sing.gif" width="400" alt="Mira Animation Preview"/>
+</p>
+Mira is designed as a **general-purpose AI companion**.  
+She can **sing**, **play games**, and **hold natural conversations**, bringing together entertainment and interactivity in one intelligent system.  
+
+### 🎵 Singing Ability
+Mira is capable of singing with a custom-trained voice model using **RVC**.  
+This allows her to perform songs in different tones and emotions, creating a more human-like musical expression.  
+
+➡️ Listen to some of Mira’s songs here:  
+<p align="center">
+  <a href="https://github.com/Akihiro2004/Akihiro2004/songs.html" target="_blank">
+    <img src="https://img.shields.io/badge/🎶%20Open%20Mira's%20Singing%20Showcase-blueviolet?style=for-the-badge" alt="Mira Songs Showcase"/>
+  </a>
+</p>
+
+
+### 🎮 Gaming Ability
+Mira is not only conversational, but she also plays games!  
+She is currently trained to **play Chess** and **interact in Minecraft**, making her a fun and challenging AI companion.  
+
+➡️ Example: *Chess demo where Mira explains her moves in real-time.*  
+
+<p align="center">
+  <a href="https://youtu.be/KTo7M4Du3EI?si=g3DyjhQTrq8t-HDl" target="_blank">
+    <img src="https://img.shields.io/badge/♟️%20Watch%20Mira%20Play%20Chess-success?style=for-the-badge" alt="Mira Chess Demo"/>
+  </a>
+</p>
+
+
+### 💬 Interactive Chat
+Mira was designed to hold **human-like conversations** with memory of past interactions.  
+She can chat naturally, adapt to context, and even role-play while connected through **Discord or other apps**.  
+
+➡️ Example: *Screenshots of Mira’s live chat session.*  
+
+<p align="center">
+  <img src="./assets/screenshots/chat1.jpg" width="400" alt="Mira Chat Screenshot 1"/>
+  <img src="./assets/screenshots/chat2.jpg" width="400" alt="Mira Chat Screenshot 2"/>
+</p>
 
 ---
+
 
 ## Connect with Me
 <p align="left">
