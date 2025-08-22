@@ -1,6 +1,6 @@
 # Hi, I'm Darrien Rafael Wijaya
 
-🎓 Computer Science Student | 🤖 AI Enthusiast | 💻 Developer  
+Computer Science and Statistics Student at BINUS University
 
 Welcome to my GitHub profile! I’m passionate about building AI systems that blend human-like reasoning with practical applications such as gaming, singing, and interactive conversations.  
 
