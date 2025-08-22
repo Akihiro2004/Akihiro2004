@@ -102,7 +102,7 @@ She is currently trained to **play Chess** and **interact in Minecraft**, making
 Mira was designed to hold **human-like conversations** with memory of past interactions.  
 She can chat naturally, adapt to context, and even role-play while connected through **Discord or other apps**.  
 
-➡️ Example: *Screenshots of Mira’s live chat session.*  
+➡️ Example: *Screenshots of Mira’s discord chat session.*  
 
 <p align="center">
   <img src="./assets/screenshots/chat1.jpg" width="400" alt="Mira Chat Screenshot 1"/>
