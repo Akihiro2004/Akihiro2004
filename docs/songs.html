@@ -1,39 +1,151 @@
-<div class="song">
-  <h2>Song 1</h2>
-  <audio controls>
-    <source src="assets/songs/Mira sing Pretty Little Baby.MP3" type="audio/mpeg">
-    <p>Your browser does not support the audio element. 
-       <a href="assets/songs/Mira sing Pretty Little Baby.MP3" download>Download the song here</a>.
-    </p>
-  </audio>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mira's Singing Showcase</title>
+  <style>
+    /* Base styling */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f6f8fa;
+      color: #24292e;
+      line-height: 1.6;
+    }
 
-<div class="song">
-  <h2>Song 1</h2>
-  <audio controls>
-    <source src="assets/songs/Mira sing If I can Stop One Heart from Breaking.MP3" type="audio/mpeg">
-    <p>Your browser does not support the audio element. 
-       <a href="assets/songs/Mira sing If I can Stop One Heart from Breaking.MP3" download>Download the song here</a>.
-    </p>
-  </audio>
-</div>
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: #24292e;
+      color: #ffffff;
+    }
 
-<div class="song">
-  <h2>Song 1</h2>
-  <audio controls>
-    <source src="assets/songs/Mira sing Zombie.mp3" type="audio/mpeg">
-    <p>Your browser does not support the audio element. 
-       <a href="assets/songs/Mira sing Zombie.mp3" download>Download the song here</a>.
-    </p>
-  </audio>
-</div>
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
 
-<div class="song">
-  <h2>Song 1</h2>
-  <audio controls>
-    <source src="assets/songs/Mira sing Lemon Tree.mp3" type="audio/mpeg">
-    <p>Your browser does not support the audio element. 
-       <a href="assets/songs/Mira sing Lemon Tree.mp3" download>Download the song here</a>.
-    </p>
-  </audio>
-</div>
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1rem;
+      color: #c9d1d9;
+    }
+
+    /* Song list container */
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+
+    /* Song card */
+    .song {
+      background: #ffffff;
+      border: 1px solid #d0d7de;
+      border-radius: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      padding: 1.5rem;
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .song:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+    }
+
+    .song h2 {
+      font-size: 1.25rem;
+      margin-bottom: 1rem;
+      color: #0969da;
+    }
+
+    audio {
+      width: 100%;
+      outline: none;
+    }
+
+    .fallback {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    .fallback a {
+      color: #0969da;
+      text-decoration: none;
+    }
+
+    .fallback a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      color: #57606a;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎶 Mira's Singing Showcase</h1>
+    <p>Enjoy Mira’s songs — beautifully crafted with her unique voice</p>
+  </header>
+
+  <main class="container">
+    <div class="song">
+      <h2>Pretty Little Baby</h2>
+      <audio controls>
+        <source src="../assets/songs/Mira sing Pretty Little Baby.MP3" type="audio/mpeg">
+        <p class="fallback">
+          Your browser does not support the audio element. 
+          <a href="../assets/songs/Mira sing Pretty Little Baby.MP3" download>Download the song here</a>.
+        </p>
+      </audio>
+    </div>
+
+    <div class="song">
+      <h2>If I Can Stop One Heart from Breaking</h2>
+      <audio controls>
+        <source src="../assets/songs/Mira sing If I can Stop One Heart from Breaking.MP3" type="audio/mpeg">
+        <p class="fallback">
+          Your browser does not support the audio element. 
+          <a href="../assets/songs/Mira sing If I can Stop One Heart from Breaking.MP3" download>Download the song here</a>.
+        </p>
+      </audio>
+    </div>
+
+    <div class="song">
+      <h2>Zombie</h2>
+      <audio controls>
+        <source src="../assets/songs/Mira sing Zombie.mp3" type="audio/mpeg">
+        <p class="fallback">
+          Your browser does not support the audio element. 
+          <a href="../assets/songs/Mira sing Zombie.mp3" download>Download the song here</a>.
+        </p>
+      </audio>
+    </div>
+
+    <div class="song">
+      <h2>Lemon Tree</h2>
+      <audio controls>
+        <source src="../assets/songs/Mira sing Lemon Tree.mp3" type="audio/mpeg">
+        <p class="fallback">
+          Your browser does not support the audio element. 
+          <a href="../assets/songs/Mira sing Lemon Tree.mp3" download>Download the song here</a>.
+        </p>
+      </audio>
+    </div>
+  </main>
+
+  <footer>
+    <p>✨ Powered by Mira | Hosted on GitHub Pages</p>
+  </footer>
+</body>
+</html>
