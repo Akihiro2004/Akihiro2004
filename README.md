@@ -6,15 +6,20 @@ Welcome to my GitHub profile! I’m passionate about building AI systems that bl
 
 ---
 
-## GitHub Statistics
+## 🚀 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akihiro2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akihiro2004&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akihiro2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akihiro2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akihiro2004&theme=onedark" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akihiro2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akihiro2004&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
