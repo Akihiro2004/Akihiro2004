@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m passionate about building AI systems that bl
 
 ---
 
-## 🚀 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akihiro2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
@@ -71,7 +71,7 @@ I worked as the **Developer**, responsible for:
 
 ---
 
-## 🎬 Mira in Action
+## Mira in Action
 <p align="center">
   <img src="./assets/sing.gif" width="400" alt="Mira Animation Preview"/>
 </p>
