@@ -49,11 +49,11 @@ I worked as the **Developer**, responsible for:
 ## Tools & Technologies
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/166515517?s=200&v=4" alt="Gemini" width="40" height="40"/> <!-- Gemini icon -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vimeo.svg" alt="VTubeStudio" width="40" height="40"/> <!-- Replace with actual VtubeStudio logo if available -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" alt="LLaMA" width="40" height="40"/> <!-- Placeholder for LLaMA -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg?color=white" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg?color=white" alt="Firebase" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/166515517?s=200&v=4" alt="Gemini" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vimeo.svg?color=white" alt="VTubeStudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg?color=white" alt="LLaMA" width="40" height="40"/>
 </p>
 
 ---
