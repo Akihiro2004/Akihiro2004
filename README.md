@@ -103,7 +103,7 @@ She can chat naturally, adapt to context, and even role-play while connected thr
 
 <p align="center">
   <img src="./assets/screenshots/chat1.jpg" width="400" alt="Mira Chat Screenshot 1"/>
-  <img src="./assets/screenshots/chat2.jpg" width="400" alt="Mira Chat Screenshot 2"/>
+  <img src="./assets/screenshots/chat2.png" width="400" alt="Mira Chat Screenshot 2"/>
   <img src="./assets/screenshots/chat3.jpg" width="400" alt="Mira Chat Screenshot 3"/>
 </p>
 
