@@ -14,14 +14,6 @@ Welcome to my GitHub profile! I’m passionate about building AI systems that bl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akihiro2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akihiro2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akihiro2004&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 # Featured Project: Mira AI
